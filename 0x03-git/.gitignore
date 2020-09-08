@@ -1,2 +1,2 @@
-# -*- mode: gitignore; -*-
+# ignore temporary emacs files
 *~
