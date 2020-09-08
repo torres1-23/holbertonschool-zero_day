@@ -1,2 +1,2 @@
-# Second task
-  Here is my second task for my first project at Holberton School.
+# This is the second task
+  Here you can see the README file of the emacs task.
