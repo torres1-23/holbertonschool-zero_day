@@ -1,7 +1,7 @@
-# 0x02. vi
+# 0x03. Git
 >These are the files used for solving different tasks involving familiarization with git and github.
-# Tasks :page_with_curl::
-## Mandatory:
+## Tasks :page_with_curl::
+### Mandatory:
   * **0. Repo-session:**\
     Create a new directory in the holbertonschool-zero_day repo, with a README.md in the directory.
   * **1. Coding fury road:**\
@@ -23,7 +23,7 @@
     * Files:
         * **[README.md](README.md)**
         * **[up_to_date](up_to_date)**
-## Advanced:
+### Advanced:
   * **4. HAAA what did you do???:**\
     Merge the branch update_script to master in order to get a merge conflict, resolve the conflict.
   * **5. Never push too much:**\
