@@ -1,5 +1,5 @@
 ## 0x01. Emacs
->These are the files used for solving different tasks involving familiriarization with emacs text editor on Linux.
+>These are the files used for solving different tasks involving familiarization with emacs text editor on Linux.
 ## Taks :page_with_curl: :
 * Mandatory:
   * **[0. Opening:](./0-opening)**
