@@ -1,7 +1,7 @@
 ## 0x02. vi
 >These are the files used for solving different tasks involving familiarization with vi text editor on Linux.
 ## Tasks :page_with_curl: :
-* Mandatory:
+# Mandatory:
   * **0. Inserting:**\
     What is the command to insert text before the cursor?
     * Files:
@@ -30,7 +30,7 @@
     What is the command to move the cursor to the end of the line?
     * Files:
         * **[6-end_line](./6-end_line)**
-* Advanced:
+# Advanced:
   * **7. Line 32:**\
     What is the command to move the cursor to line 32?
     * Files:
