@@ -18,6 +18,6 @@
     What is the command to move the cursor to the end of the line?
 * Advanced:
   * **[7. Line 32:](./100-move_to_line)**
-    What is the command to play Tetris inside Emacs?
+    What is the command to move the cursor to line 32?
   * **[8. Delete current and previous line:](./101-delete_line)**
     What is the command to delete the current and previous line at the same time?
