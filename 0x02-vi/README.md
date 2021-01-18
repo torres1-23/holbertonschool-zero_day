@@ -1,6 +1,6 @@
 ## 0x02. vi
 >These are the files used for solving different tasks involving familiarization with vi text editor on Linux.
-## Taks :page_with_curl: :
+## TaSks :page_with_curl: :
 * Mandatory:
   * **[0. Inserting:](./0-inserting)**
     What is the command to insert text before the cursor?

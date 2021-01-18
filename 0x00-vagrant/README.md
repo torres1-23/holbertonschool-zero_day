@@ -1,7 +1,7 @@
 ## 0x00. Vagrant
 >First project of Holberton school, installation, creation and configuration of a vagrant virtual machine and git account.
 
-## Taks :page_with_curl: :
+## TaSks :page_with_curl: :
 * Mandatory:
   * **0. Create and setup your Git and Github account:**
     Install git, create an account, create this respository and clone it to my local repo.
