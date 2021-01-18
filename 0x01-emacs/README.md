@@ -1,7 +1,7 @@
-## 0x01. Emacs
+# 0x01. Emacs
 >These are the files used for solving different tasks involving familiarization with emacs text editor on Linux.
-## Tasks :page_with_curl: :
-* Mandatory:
+# Tasks :page_with_curl::
+## Mandatory:
   * **0. Opening:**\
     What is the command to open a file from within Emacs?
     * Files:
@@ -30,7 +30,7 @@
     What is the command to quit Emacs?
     * Files:
         * **[6-quitting](./6-quitting)**
-* Advanced:
+## Advanced:
   * **7. Tetris:**\
     What is the command to play Tetris inside Emacs?
     * Files:

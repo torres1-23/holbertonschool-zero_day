@@ -1,6 +1,6 @@
 # 0x02. vi
 >These are the files used for solving different tasks involving familiarization with git and github.
-# Tasks :page_with_curl: :
+# Tasks :page_with_curl::
 ## Mandatory:
   * **0. Repo-session:**\
     Create a new directory in the holbertonschool-zero_day repo, with a README.md in the directory.
