@@ -8,7 +8,6 @@
     What is the command to save a file?
   * **[2. Cutting:](./2-cutting)**
     What is the command to cut an entire line?
-    * size attribute with validation.
   * **[3. Pasting:](./3-pasting)**
     What is the command to paste?
   * **[4. Searching:](./4-searching)**
